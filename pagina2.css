@@ -19,7 +19,7 @@ header{
     padding: 2rem;
 }
 
-header A{
+header a{
     color: var(--branco);
     text-decoration: none;
 }
@@ -31,4 +31,10 @@ footer {
     color: var(--branco);
     width: 100%;
     text-align: center;
+}
+
+#container{
+    display: grid;
+    gap: 3rem;
+    padding: 20px;
 }
