@@ -45,9 +45,16 @@ footer {
     padding: 40px;
     color: var(--branco);
     box-shadow: 5px 6px 25px var(--branco);
+    cursor: pointer;
 }
 
 .cartao:hover{
     transform: scale(1.0);
 
+}
+
+.resposta-cartao{
+    background-color: var(--verso-cartao);
+    padding: 40px;
+    display: none;
 }
