@@ -36,5 +36,5 @@ footer {
 #container{
     display: grid;
     gap: 3rem;
-    padding: 20px;
+    padding: 2rem;
 }
