@@ -77,43 +77,43 @@ criaCartao(
 )
 
 criaCartao(
-    'Matmática',
-    'Pergunta',
-    'Resposta'
+    'Sociologia',
+    'Quais são os pais da sociologia?',
+    'Karl Marx, Emile Durkleim, Max Weber'
 )
 
 criaCartao(
-    'Matmática',
-    'Pergunta',
-    'Resposta'
+    'Matemática',
+    'Qual o critério de divisibilidade por 6?',
+    'O número é múltiplo de 2 e 3 ao mesmo tempo'
 )
 
 criaCartao(
-    'Matmática',
-    'Pergunta',
-    'Resposta'
+    'Química',
+    'Como identificar um álcool em uma função estrutural?',
+    'A hidroxila está ligada a um carbono saturado, isto é, carbono com ligações simples'
 )
 
 criaCartao(
-    'Matmática',
-    'Pergunta',
-    'Resposta'
+    'Física',
+    'Para que um ponto esteja em equilíbrio…?',
+    '“basta” que a resultante seja nula.'
 )
 
 criaCartao(
-    'Matmática',
-    'Pergunta',
-    'Resposta'
+    'História',
+    'A República da Espada foi comandada por dois governantes, são eles',
+    'Marechal Deodoro da Fonseca e Marechal Floriano Peixoto'
 )
 
 criaCartao(
-    'Matmática',
-    'Pergunta',
-    'Resposta'
+    'Filosofia',
+    'Qual é a principal diferença entre a filosofia aristotelica e de Platao?',
+    'Para Platao, a verdade esta no mundo inteligivel e o conhecimento é alcançado pela matematica. Ja para Aristoteles, a verdade esta no mundo sensivel e o conhecimento é alcançado atraves dos fenomenos da natureza'
 )
 
 criaCartao(
-    'Matmática',
-    'Pergunta',
-    'Resposta'
+    'Sociologia',
+    'Definição de juízos de valor',
+    'É julgar a partir do que é importante pra você'
 )
